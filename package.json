@@ -1,0 +1,13 @@
+﻿{
+    "name":  "jev-course-demo",
+    "private":  true,
+    "type":  "module",
+    "description":  "本地客服 Demo：聊天、FAQ、意图分流与转人工；Laya 在浏览器内推理。",
+    "scripts":  {
+                    "test":  "node tests/course-engine.test.mjs \u0026\u0026 node tests/support-engine.test.mjs",
+                    "calibrate":  "node calibration/run.mjs"
+                },
+    "devDependencies":  {
+                            "onnxruntime-node":  "1.30.0"
+                        }
+}
