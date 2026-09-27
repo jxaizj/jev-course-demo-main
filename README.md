@@ -140,3 +140,5 @@ npm test
 
 请同时遵守仓库内已有的 `LICENSE-laya.txt` 与 `LICENSE-coi-serviceworker.txt`，以及相关模型和依赖的授权条款。
 
+![流程工作台](images/conversation1.png)
+![报告工作台](images/conversation2.png)
